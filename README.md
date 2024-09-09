@@ -10,7 +10,7 @@
 
 <p align="center">Imagem 1 - semi-agile release model</p>
 
-<img src="../../assets/imagens/Processos - Compras.png">
+<img src="assets\cutover.jpg">
 
 <p align="center">Fonte: A framework for cut-over management</p>
 
